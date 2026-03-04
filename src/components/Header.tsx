@@ -129,7 +129,7 @@ export const Header = () => {
               to="/"
               className="font-serif text-2xl md:text-3xl tracking-tight text-foreground hover:text-primary transition-colors duration-300 md:absolute md:left-1/2 md:-translate-x-1/2"
             >
-              Maison
+              HAVEN & HOME
             </Link>
 
             {/* Right side actions */}
